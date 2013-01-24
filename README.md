@@ -1,4 +1,4 @@
 stock
 =====
 
-Pseudo stock exchange application
+Pseudo stock market exchange application
